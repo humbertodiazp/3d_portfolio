@@ -1,4 +1,6 @@
-3D Portfolio
+**3D Portfolio**
+
+
 
 Portfolio project featuring 3D animated models built with react and three.js
 
