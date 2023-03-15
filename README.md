@@ -17,17 +17,18 @@ https://www.youtube.com/@javascriptmastery
 
 
 Features
--Users can fully rotate a 3d model of a desktop gaming computer 
--Tilting ball models displaying different technologies such as react, JS, html, css, etc. 
--The contact page has a rotating model of the earth with animated shooting stars in the background. 
+
+- Users can fully rotate a 3d model of a desktop gaming computer 
+- Tilting ball models displaying different technologies such as react, JS, html, css, etc. 
+- The contact page has a rotating model of the earth with animated shooting stars in the background. 
 
 
 
 
 Built With 
--React
--Three.js
--Tailwind.css
+- React
+- Three.js
+- Tailwind.css
 
 
 Reflection
