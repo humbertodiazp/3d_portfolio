@@ -4,7 +4,7 @@
 
 Portfolio project featuring 3D animated models built with react and three.js
 
-Built over the course of a weekend to gain experience using react and three.js.
+Built over the course of several weekends to gain experience using react and three.js.
 
 See screenshots of the live page below:
 
